@@ -1,6 +1,7 @@
 
 #This is a calculator build by renegadeAi
 #Age 16
+#project number 1
 #goal = global tech giant in 2040
 #side goal= souls game ai NPC developer in 2040
 #Calculator:
