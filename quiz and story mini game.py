@@ -1,3 +1,9 @@
+
+#name= renegadeAI
+#age=16
+#project(3)
+#day 1
+
 points=0
 q1= input("what is btth?  ")
 if q1== "battle through the heavens":
