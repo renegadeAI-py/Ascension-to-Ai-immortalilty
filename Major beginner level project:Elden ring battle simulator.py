@@ -3,8 +3,11 @@
 # Status: In Progress
 # Known bugs: Being fixed
 # Started: 2026
+# Day:2
+# project:4
+#project difficulty: mediocre
 
-#game intro#
+# game intro#
 
 import random
 import time
@@ -85,4 +88,4 @@ if boss_hp< 1000:
 else:
     print(boss_name + " has now "+str(boss_hp)+"left to slaughter you !")
   
-#boss attack 
+#To be finished;🎯
