@@ -2,6 +2,8 @@
 #age 16
 #day:1
 #project 2
+#project difficulty:easy
+#bugs:🤔 nop, all clean!
 #This a mini cultivation Story 🎯 about BTTH
 
 name=input("gimme a donghua MC:")
