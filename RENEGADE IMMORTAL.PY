@@ -55,7 +55,7 @@ HP_talismen={"reincarnation_pill":400,
                             "Dragon_scales":500,}
 player_HP=500
 boss_HP=250
-Player_atk=random.choice([50,60,80])
+Player_atk=random.choice([50,80,100])
 boss_atk=random.choice([50, 75,100])
 with open("player_stats.txt","w") as file:
     file.write(str(Player_info))
