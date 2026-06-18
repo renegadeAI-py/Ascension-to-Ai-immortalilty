@@ -2,6 +2,7 @@ import math
 import random
 import time
 import sys
+import numpy as np
 
 #Initiation phase#
 
